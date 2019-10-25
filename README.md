@@ -1,5 +1,4 @@
-# NLP-Tutorial-5 and 6---Rule-Based-Phrase-Text-Extraction-and-Matching
-NLP Tutorial 5 - Rule Based Phrase Text Extraction and Matching Part 1
+# NLP-Tutorial-5 & 6---Rule-Based-Phrase-Text-Extraction-and-Matching
 
 In this lesson, I will teach you about regular expression in Spacy which will be useful in text feature extraction later in the sentiment analysis video.
 
